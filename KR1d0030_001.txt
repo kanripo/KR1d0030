@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:08:32.040499
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1d0030_WYG_001-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷一　　　　宋　李如圭　撰¶
@@ -778,4 +780,3 @@
 　不爲諡周制以士爲爵死猶不爲諡耳下大夫也今¶
 <pb:KR1d0030_WYG_001-44a>¶
 　記之時士死則諡之非也諡之由魯莊公始也¶
-

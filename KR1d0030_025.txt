@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:08:32.503313
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR1d0030_WYG_025-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷二十五　　宋　李如圭　撰¶
@@ -724,4 +726,3 @@
 　用柔毛剛鬛嘉薦普淖用薦歳事于皇祖伯某以某¶
 <pb:KR1d0030_WYG_025-41a>¶
 　妃配某氏尚饗¶
-

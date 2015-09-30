@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:08:32.450218
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1d0030_WYG_022-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷二十二　　　宋　李如圭　撰¶
@@ -447,4 +449,3 @@
 　鄭注衆賔僚友不來者也¶
 卜人徹龜宗人告事畢主人絰入哭如筮宅賔出拜送¶
 若不從卜擇如初儀¶
-

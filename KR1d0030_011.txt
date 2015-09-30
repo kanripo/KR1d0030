@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:08:32.250662
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1d0030_WYG_011-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷十一　　　　宋　李如圭　&KR0103;¶
@@ -685,4 +687,3 @@
 　加書以將命春秋臧孫辰告糴于齊公子遂如楚乞¶
 　師晉侯使韓穿來言汶陽之田皆是也無庭實也¶
 　釋曰司儀職云每事如初之儀¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:08:32.554416
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR1d0030_WYG_028-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷二十八　　　宋　李如圭　撰¶
@@ -613,4 +615,3 @@
 主人興坐奠爵拜執爵以興坐卒爵拜上&KR0362;荅拜上&KR0362;¶
 興出主人送乃退¶
 　鄭注送佐食不拜賤¶
-

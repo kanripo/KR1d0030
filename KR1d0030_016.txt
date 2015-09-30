@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:08:32.334258
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1d0030_WYG_016-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷十六　　　　宋　李如圭　撰¶
@@ -369,4 +371,3 @@
 　釋曰此車天子所乘者諸侯亦乘之故謂之偏¶
 奠圭于繅上¶
 　鄭注謂釋于地也¶
-

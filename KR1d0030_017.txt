@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集釋
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:08:32.353165
+#+PROPERTY: ID KR1d0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1d0030_WYG_017-1a>¶
 欽定四庫全書¶
 　儀禮集釋卷十七　　　宋　李如圭　&KR0103;¶
@@ -763,4 +765,3 @@
 　母故以明之¶
 　釋曰經嫌妾以厭降其私親故明之下記曰凡妾爲¶
 　私兄弟如邦人¶
-
